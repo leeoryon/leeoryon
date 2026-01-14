@@ -1,3 +1,5 @@
+![banner](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?semt=ais_hybrid&w=740&q=80)
+
 # Hello Everyone, My name Leo
 
 # 💫 About Me:
@@ -5,6 +7,13 @@
 - Tech Enthusiast
 - Backend Developer
 - DevOps
+
+
+## 🧑‍💻 Live Demo
+Coming Soon! - Currently Fixing Some Issue!
+
+
+## Portfolio
 
 
 
