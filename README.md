@@ -1,5 +1,7 @@
 ![banner](https://static.vecteezy.com/system/resources/thumbnails/021/998/682/small/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg)
 
+![line](https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
+
 # Hello Everyone, My name Leo
 
 # 💫 About Me:
@@ -8,6 +10,7 @@
 - Backend Developer
 - DevOps
 
+![line](https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966)
 
 ## 🧑‍💻 Live Demo
 Coming Soon! - Currently Fixing Some Issue!
