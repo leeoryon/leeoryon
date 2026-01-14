@@ -1,7 +1,5 @@
 ![banner](https://github.com/leeoryon/leeoryon/blob/main/Banner.jpg?raw=true)
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Social
-
 <div align="center">
   <a href="http://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <br>
