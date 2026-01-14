@@ -1,7 +1,11 @@
-## Hi There
+# Hello Everyone, My name Leo
 
 # 💫 About Me:
-🔭 I’m currently working on DevOps Project<br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Fun fact
+🔭 I’m currently working on SurrealDB<br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Fun Fact
+- Tech Enthusiast
+- Backend Developer
+- DevOps
+
 
 
 ## 🌐 Socials:
