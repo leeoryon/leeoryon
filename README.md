@@ -1,6 +1,4 @@
-![banner](https://static.vecteezy.com/system/resources/thumbnails/021/998/682/small/devops-banner-web-icon-illustration-concept-for-software-engineering-and-development-with-an-icon-of-a-plan-code-build-test-release-deploy-operate-and-monitor-vector.jpg)
-
-# Hello Everyone, My name Leo
+![banner](https://github.com/leeoryon/leeoryon/blob/main/Banner.jpg?raw=true)
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
 
