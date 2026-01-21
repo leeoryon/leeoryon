@@ -1,32 +1,24 @@
-![banner](https://github.com/leeoryon/leeoryon/blob/main/Banner.jpg?raw=true)
 
 <div align="center">
   <a href="http://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <br>
   <a href="https://medium.com/"><img src="https://img.shields.io/badge/-medium-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/instagram-0A0209?style=for-the-badge&logo=instagram&logoColor=d5d5d5"/></a> 
-  <br>
-  <a href="https://peerlist.io/"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" ></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://www.polywork.com/"><img src="https://img.shields.io/badge/polywork-d5d5d5?style=for-the-badge&logo=polywork&logoColor=0A0209" ></a>
   <br> 
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
   <a href="https://app.daily.dev/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge&logo=x&logoColor=d5d5d5" alt="azfarxx_" ></a>
   <a href="https://www.showwcase.com/"><img src="https://img.shields.io/badge/showwcase-0A0209?style=for-the-badge&logo=showwcase&logoColor=d5d5d5" ></a>
   <br>
-  <a href=""><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
   <a href=""><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href=""><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
-  <a href=""><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
+  
   
 </div>
 
 
 
 # 💫 About Me:
-🔭 I’m currently working on SurrealDB<br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Fun Fact
+🔭 I’m currently working on <br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Fun Fact
 - Tech Enthusiast
 - Backend Developer
 - DevOps
