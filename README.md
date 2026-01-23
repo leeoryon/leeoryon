@@ -16,23 +16,17 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on <br>🌱 I’m currently learning Rust<br>💬 Ask me about Anything<br>⚡ Roles
+🔭 I’m currently working on HealthCare Company<br>🌱 I’m currently learning System Design<br>💬 Ask me about My Experience<br>⚡ Roles
 - Tech Enthusiast
 - Backend Developer
 - DevOps Engineer
 
-### <p align="center">My Technical Skills</p>
+### <p>My Technical Skills</p>
 
 <p align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
-  </a>
+  
 </p>
-<p align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
-  </a>
-</p>
+
 
 
 
@@ -45,8 +39,6 @@ Coming Soon! - Currently Fixing Some Issue!
 # 
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/-) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/-) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/-) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/-) 
+
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
