@@ -30,8 +30,8 @@
 
 
 
-## 🧑‍💻 Live Demo
-Coming Soon! - Currently Fixing Some Issue!
+## 🧑‍💻 Media
+<img src=""/>
 
 
 ## 📜 Portfolio
